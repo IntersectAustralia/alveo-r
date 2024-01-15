@@ -1,6 +1,9 @@
 Alveo R Library
 =======
 
+Now found at: https://github.com/Alveo
+
+
 This is the main repository for the R library to interact with the Alveo API
 
 Documentation for this library can be found [here](https://github.com/IntersectAustralia/hcsvlab-docs/blob/master/RLibrary.md)
